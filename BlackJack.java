@@ -1,5 +1,7 @@
 package BlackJack;
 
 public class BlackJack{
-public static 
+public static void main(String[] args) {
+    
+}
 }
